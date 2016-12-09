@@ -1,4 +1,6 @@
 <?php
+//update dari server
+//by reskyaprilia
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 

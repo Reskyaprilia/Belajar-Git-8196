@@ -1,4 +1,6 @@
 <?php
+//update 9 Desember 9.46
+//by reskyaprilia
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 require_once('lib/m_nationality.php');
